@@ -1,6 +1,6 @@
 #idea
 
-.idea
+.idea/
 
 # Don’t commit the following directories created by pub.
 .buildlog
